@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Main" />
+
+    <item
+        android:id="@+id/about_page"
+        android:title="About" />
+
+    <item
+        android:id="@+id/employee_contacts_page"
+        android:title="Employee Contacts" />
+
+    <item
+        android:id="@+id/user_info_page"
+        android:title="My Info" />
+
+    <item
+        android:id="@+id/login_page"
+        android:title="Log Out" />
+
+</menu>
